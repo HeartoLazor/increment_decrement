@@ -1,5 +1,6 @@
 # Increment Decrement Sublime Plugin
 Sublime Text plugin to increment/decrement all selected numbers in text.
+
 https://gfycat.com/SeveralPointedHapuku
 
 ## Installation
