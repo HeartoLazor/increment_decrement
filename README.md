@@ -15,8 +15,8 @@ Add this snippet with your chosen binding:
 { "keys": ["ctrl+alt+z"], "command": "decrement"}
 ```
 
-## license
-CC-0
+## License
+MIT License
 
 Based in https://gist.github.com/dtao/2788978 from https://gist.github.com/dtao
 
